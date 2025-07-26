@@ -1,3 +1,9 @@
+
+## 🚀 **Live Demo:**  
+🔗 **[https://mern-project-event-planner-m6tgnqxej-richa-gogdes-projects.vercel.app](https://mern-project-event-planner-m6tgnqxej-richa-gogdes-projects.vercel.app)**
+
+
+
 Perfect Planners is an event planning website built using the MERN stack (MongoDB, Express.js, React.js, Node.js).
 Users can book appointments to plan different types of events such as weddings, corporate events, and engagement etc.
 
